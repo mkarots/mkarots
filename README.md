@@ -1,11 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Michael 👋
+---
+📍London <-> Athens | Building developer tooling 👨‍💻⚙️ | 
 
+## Projects
+### Closed Source
+- [codii](codii.dev) -  AI Code Reviewer
+### Open Source
+- [raglet](https://github.com/mkarots/raglet) - portable, lightweight RAG
+- [hookedllm](https://github.com/mkarots/hookedllm/) - run functions before and after LLM calls
+- [grompt](https://github.com/mkarots/grompt) - lightweight prompt management tool
+- [noesis](https://github.com/mkarots/noesis) - wraps agents with HTTP & CLI interface
+- [reportit](https://github.com/mkarots/noesis) - capture and send python exceptions to IDEs
+
+
+- 📫 How to reach me:
+  - [@LinkedIn](https://www.linkedin.com/in/michaelkarotsieris/)
+  - [X](https://x.com/cepstrum9)
 <!--
-**mkarots/mkarots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
