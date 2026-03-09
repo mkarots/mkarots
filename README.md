@@ -1,6 +1,7 @@
 ## Hi there, I'm Michael 👋
 ---
-📍London <-> Athens | Building developer tooling 👨‍💻⚙️ | 
+📍London <-> Athens | Building developer tools & frameworks 👨‍💻⚙️ |
+
 
 ## Projects
 
