@@ -14,9 +14,7 @@
 - 🚨[vraxion](https://github.com/mkarots/vraxion) - python ASGI framework
 
 
-- 📫 How to reach me:
-  - [@LinkedIn](https://www.linkedin.com/in/michaelkarotsieris/)
-  - [X](https://x.com/cepstrum9)
+- 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/michaelkarotsieris/) [X](https://x.com/cepstrum9)
 <!--
 
 
