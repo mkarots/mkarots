@@ -5,6 +5,7 @@
 
 ## Projects
 
+- 🪄[**spek**](https://github.com/mkarots/spek) - turn specs to packages
 - 🤖[**codii**](https://codii.dev) -  AI Code Reviewer
 - 🦉[**raglet**](https://github.com/mkarots/raglet) - portable, lightweight RAG
 - 🪝[**hookedllm**](https://github.com/mkarots/hookedllm/) - run functions before and after LLM calls
